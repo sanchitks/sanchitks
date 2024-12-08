@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sanchitks
+- 👋 Hi, I’m Sanchit
 - 👀 I’m interested in Programming and Sports
-- 🌱 I’m currently learning Web Development and Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web Development and Java
+- 💞️ I’m looking to collaborate on open-source projects
 - 📫 You can contact me through my email(sanchitksh@gmail.com)
 
 <!---
