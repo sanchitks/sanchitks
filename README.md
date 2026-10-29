@@ -2,7 +2,10 @@
 <h3 align="center">AI Web Developer · Python &amp; GenAI · Delhi, India</h3>
 
 <p align="center">
-I build fast, modern websites and bring AI into them, combining a Computer Science background with Python, Generative AI and multi-agent systems.
+I'm an AI Web Developer with a degree in Computer Applications (BCA), focused on full-stack web applications that put Generative AI to practical, everyday use. I design responsive, accessible interfaces with Next.js, React and TypeScript, and build the Python and FastAPI back-ends behind them: LLM integrations, multi-agent workflows with LangGraph and Claude, secure authentication, databases and live third-party APIs.
+</p>
+<p align="center">
+Experience in operations, teaching and running my own venture shapes how I work. I communicate clearly, plan carefully and deliver products that solve real problems for real users.
 </p>
 
 <p align="center">
